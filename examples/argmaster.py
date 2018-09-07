@@ -1,3 +1,10 @@
+'''
+hashmaster module example
+
+usage:
+    argmaster.py <algorthm> <hash> <wordlist>
+'''
+
 #imports
 import sys
 import hashmaster
