@@ -1,5 +1,7 @@
 # hashmaster
 A module for cracking hashes.
 # usage
-```import hashmaster
-hashmaster.crack("hashtype","hash","wordlist")```
+```python
+import hashmaster
+hashmaster.crack("hashtype","hash","wordlist")
+```
