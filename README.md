@@ -1,5 +1,7 @@
 # hashmaster
-A module for cracking hashes.
+A python3 module for cracking hashes.
+# setup
+put hashmaster.py into the directory for your modules.
 # usage
 ```python
 import hashmaster #import module
