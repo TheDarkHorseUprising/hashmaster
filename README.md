@@ -2,6 +2,6 @@
 A module for cracking hashes.
 # usage
 ```python
-import hashmaster
-hashmaster.crack("hashtype","hash","wordlist")
+import hashmaster #import module
+hashmaster.crack("hashtype","hash","wordlist") #crack a hash
 ```
