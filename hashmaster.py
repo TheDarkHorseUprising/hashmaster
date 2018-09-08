@@ -37,4 +37,3 @@ def crack(a,b,c):
         hash2comp=hashtype(wlistlines[i].replace("\n","").encode()).hexdigest()
         if b == hash2comp:
                 return(wlistlines[i].replace("\n",""))
-                break
